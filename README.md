@@ -1,7 +1,6 @@
 # Linear-Block-Code
 ## Aim:
-To Perform linear Block code operation for the given input
-
+To encode and decode data using Linear Block Codes and analyze the error detection and correction capability.
 ## Tools Required:
 Python IDE with Numpy and Scipy
 ## Program:
@@ -97,10 +96,10 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 ## Output:
 ![image](https://github.com/user-attachments/assets/46a0afa8-0bee-4412-94c1-c93332c39abe)
 ![image](https://github.com/user-attachments/assets/409f9fb7-a11f-4853-bf2d-5c3da664281c)
-![image](https://github.com/user-attachments/assets/5dabd662-30ba-44cd-8c15-1162f4c90e14)
-![image](https://github.com/user-attachments/assets/97dfee14-ea69-4481-a8c0-3c0eab1d61c0)
+![WhatsApp Image 2025-04-18 at 21 31 37_180c525a](https://github.com/user-attachments/assets/301d1955-9f97-48e9-9a3a-7bf47bfeaacf)
+![WhatsApp Image 2025-04-18 at 21 31 36_d8c7c5d3](https://github.com/user-attachments/assets/98118965-d7e0-4bf5-8942-8ef2534c4417)
+![WhatsApp Image 2025-04-18 at 21 30 41_7ed93965](https://github.com/user-attachments/assets/5501352e-f5ef-442a-952b-1b55afd5a35e)
 
-![image](https://github.com/user-attachments/assets/9bc54339-d3b7-48b9-86be-1114d416e25b)
 
 
 ## Results:
